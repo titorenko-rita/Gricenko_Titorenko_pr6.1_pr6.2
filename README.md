@@ -73,9 +73,9 @@
 
 ## Скриншоты
 
-6.2/скриншот окна «Обозреватель тестов»;.png 
+<img width="225" alt="скриншот окна «Обозреватель тестов»;" src="https://github.com/user-attachments/assets/835f042d-254e-4135-832a-be41355210f8" />
+<img width="426" alt="скриншот содержимого таблицы с пользователями из СУБД Microsoft SQL Server" src="https://github.com/user-attachments/assets/8ca417e5-04a4-48d6-bdde-17f43c98d736" />
 
-6.2/скриншот содержимого таблицы с пользователями из СУБД Microsoft SQL Server.png
 
 ## Примечания
 
